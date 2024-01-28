@@ -1,16 +1,13 @@
-### Hi there 👋
-
 <!--
 **VermeulenWouter/VermeulenWouter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+## Hi, I'm Wouter
+
+🔭 I'm a student at the UCLouvain, most of my projects on here are for college
+
+👯 Looking to collaborate on different projects
+
+📫 Reach me on woutervermeulen04@protonmail.com
+
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,python,c,java,html,latex,lua)](https://skillicons.dev)
